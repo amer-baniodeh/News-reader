@@ -1,4 +1,6 @@
-gstreamlit
+fastapi
+uvicorn
 scikit-learn
 joblib
 feedparser
+pydantic
