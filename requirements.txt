@@ -1,4 +1,4 @@
-streamlit
+gstreamlit
 scikit-learn
 joblib
 feedparser
